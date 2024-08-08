@@ -125,8 +125,6 @@ List of projects I made with love
   <img height="170em" src= "https://github-readme-stats.vercel.app/api?username=ajaymalasha" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaymalasha&layout=compact&langs_count=7&theme=white" />
   
-<a href="https://app.daily.dev/arifcpam" target="_blank">
-<img width="170em" src="https://api.daily.dev/devcards/4525031d920e4981af7413fbb5da4092.png?r=wkl" alt="Arif Hossain's Dev Card"/></a>
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
